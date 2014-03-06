@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Donatello",
+    "weapon": "Bo",
+    "image": "http://ninja-turtles.clipartonline.net/_/rsrc/1334836973986/donatello-ninja-turtle/Ninja%20Turtle%20Donatello%202.gif?height=400&width=258"
+  },
+  {
+    "name": "Michaelangelo",
+    "weapon": "Nunchucks",
+    "image": "http://ninja-turtles.clipartonline.net/_/rsrc/1392050572857/michelangelo-ninja-turtle/Michelangelo%20Ninja%20Turtle%202.png?height=400&width=400"
+  },
+  {
+    "name": "Raphael",
+    "weapon": "Sai",
+    "image": "http://ninja-turtles.clipartonline.net/_/rsrc/1392049222538/raphael-ninja-turtle/raphael-tmnt_3.png?height=400&width=400"
+  },
+  {
+    "name": "Leonardo",
+    "weapon": "Swords",
+    "image": "http://ninja-turtles.clipartonline.net/_/rsrc/1334837867430/leonardo-ninja-turtle/Ninja%20Turtle%20Leonardo%208.gif?height=320&width=281&height=400&width=351"
+  }
+]
