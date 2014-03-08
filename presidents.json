@@ -1,0 +1,44 @@
+[
+  {
+    "first": "Barack",
+    "last": "Obama",
+    "term-start":2009,
+    "term-end": 2017,
+    "image_url": "http://freeyork.org/wp-content/uploads/2012/11/JasonHeuser01.jpg"
+  },
+  {
+    "first": "Andrew",
+    "last": "Jackson",
+    "term-start":1829,
+    "term-end": 1837,
+    "image_url": "http://freeyork.org/wp-content/uploads/2012/11/JasonHeuser08.jpg"
+  },
+  {
+    "first": "Theodore",
+    "last": "Roosevelt",
+    "term-start":1901,
+    "term-end": 1909,
+    "image_url": "http://freeyork.org/wp-content/uploads/2012/11/JasonHeuser07.jpg"
+  },
+  {
+    "first": "Franklin",
+    "last": "Roosevelt",
+    "term-start":1933,
+    "term-end": 1945,
+    "image_url": "http://freeyork.org/wp-content/uploads/2012/11/JasonHeuser03.jpg"
+  },
+  {
+    "first": "Ronald",
+    "last": "Reagan",
+    "term-start":1981,
+    "term-end": 1989,
+    "image_url": "http://freeyork.org/wp-content/uploads/2012/11/JasonHeuser02.jpg"
+  },
+  {
+    "first": "Abraham",
+    "last": "Lincoln",
+    "term-start":1861,
+    "term-end": 1865,
+    "image_url": "http://freeyork.org/wp-content/uploads/2012/11/JasonHeuser00.jpg"
+  }
+]

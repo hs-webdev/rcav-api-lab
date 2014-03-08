@@ -1,0 +1,26 @@
+[
+  {
+    "name": "pineapple",
+    "image_url": "http://media02.hongkiat.com/fruit-crafted-animals/fruit-animal.jpg"
+  },
+  {
+    "name": "watermelon",
+    "image_url": "http://media02.hongkiat.com/fruit-crafted-animals/watermelon-dragon.jpg"
+  },
+  {
+    "name": "banana",
+    "image_url": "http://media02.hongkiat.com/fruit-crafted-animals/banana-doggy.jpg"
+  },
+  {
+    "name": "orange",
+    "image_url": "http://media02.hongkiat.com/fruit-crafted-animals/orange-tabby-cat.jpg"
+  },
+  {
+    "name": "kiwi",
+    "image_url": "http://media02.hongkiat.com/fruit-crafted-animals/kiwi-koala.jpg"
+  },
+  {
+    "name": "apple",
+    "image_url": "http://media02.hongkiat.com/fruit-crafted-animals/apple-duck.jpg"
+  }
+]
